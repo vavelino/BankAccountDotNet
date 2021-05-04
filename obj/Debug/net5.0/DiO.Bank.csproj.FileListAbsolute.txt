@@ -1,0 +1,16 @@
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\bin\Debug\net5.0\DiO.Bank.exe
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\bin\Debug\net5.0\DiO.Bank.deps.json
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\bin\Debug\net5.0\DiO.Bank.runtimeconfig.json
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\bin\Debug\net5.0\DiO.Bank.runtimeconfig.dev.json
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\bin\Debug\net5.0\DiO.Bank.dll
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\bin\Debug\net5.0\ref\DiO.Bank.dll
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\bin\Debug\net5.0\DiO.Bank.pdb
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\obj\Debug\net5.0\DiO.Bank.csprojAssemblyReference.cache
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\obj\Debug\net5.0\DiO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\obj\Debug\net5.0\DiO.Bank.AssemblyInfoInputs.cache
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\obj\Debug\net5.0\DiO.Bank.AssemblyInfo.cs
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\obj\Debug\net5.0\DiO.Bank.csproj.CoreCompileInputs.cache
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\obj\Debug\net5.0\DiO.Bank.dll
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\obj\Debug\net5.0\ref\DiO.Bank.dll
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\obj\Debug\net5.0\DiO.Bank.pdb
+d:\C_Sharp_digital\Tranferenciabancaria\Dio.Bank\obj\Debug\net5.0\DiO.Bank.genruntimeconfig.cache
